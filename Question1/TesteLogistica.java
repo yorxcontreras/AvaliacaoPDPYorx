@@ -18,4 +18,4 @@ public class TesteLogistica {
         double custoMaritimo = sistemaLogistica.calcularCusto(encomenda);
         System.out.printf("Custo Marítimo: R$ %.2f%n", custoMaritimo);
     }
-}
+}  
